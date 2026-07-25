@@ -2,13 +2,13 @@
 
 A retail business specializing in fans and lighting fixtures for the home, offering both product sales and personalized home consultation services. The business aims to help homeowners find the right lighting and ventilation solutions that match their interior design needs and preferences.
 
-Source: https://example.com
+Source: https://lumina-air.zappy5.app
 
 ---
 
 ## האירו את הבית בגופי תאורה לסלון מעוצב — Lumina &amp; Air
 
-URL: https://example.com
+URL: https://lumina-air.zappy5.app
 Description: גלו את עולם התאורה והאוורור המושלם לביתכם. גופי תאורה מעוצבים לסלון, מאווררי תקרה עם תאורה ופתרונות יוקרתיים לכל חדר. היכנסו והתחילו לעצב את חלום הבית שלכם עוד היום.
 
 האירו את הבית בגופי תאורה לסלון מעוצב — Lumina & Air
@@ -413,7 +413,7 @@ Description: גלו את עולם התאורה והאוורור המושלם ל�
 
 ## הפיחו חיים בכל חדר עם מאוורר תקרה עם תאורה לבית — Lumina &amp; Air
 
-URL: https://example.com/products
+URL: https://lumina-air.zappy5.app/products
 Description: קטלוג המוצרים המלא שלנו מחכה לכם: מאווררי תקרה דקורטיביים עם תאורה, גופי תאורה יוקרתיים לסלון ומנורות אווירה לכל פינה. מצאו את הפריט שישדרג לכם את החיים.
 
 הפיחו חיים בכל חדר עם מאוורר תקרה עם תאורה לבית — Lumina & Air
@@ -819,7 +819,7 @@ Description: קטלוג המוצרים המלא שלנו מחכה לכם: מאו
 
 ## הפכו חלל לסיפור עם ייעוץ תאורה לדירה חדשה — Lumina &amp; Air
 
-URL: https://example.com/consultation
+URL: https://lumina-air.zappy5.app/consultation
 Description: חולמים על בית מואר ומאוורר בדיוק כמו שתכננתם? שירות ייעוץ אישי להתאמת גופי תאורה ומאווררים שיחמיאו לעיצוב שלכם. קבעו פגישת ייעוץ והפכו חזון למציאות.
 
 הפכו חלל לסיפור עם ייעוץ תאורה לדירה חדשה — Lumina & Air
@@ -1268,7 +1268,7 @@ Description: חולמים על בית מואר ומאוורר בדיוק כמו 
 
 ## הכירו את המומחים מאחורי התאורה לבית יוקרתי — Lumina &amp; Air
 
-URL: https://example.com/about
+URL: https://lumina-air.zappy5.app/about
 Description: בלומינה אנד אייר אנחנו לא רק מוכרים מוצרים – אנחנו יוצרים אווירה. עם ניסיון עשיר בתאורה ומאווררים מעוצבים, אנחנו כאן כדי להאיר ולקרר את הבית שלכם בסגנון שאין שני לו.
 
 הכירו את המומחים מאחורי התאורה לבית יוקרתי — Lumina & Air
@@ -1603,7 +1603,7 @@ Description: בלומינה אנד אייר אנחנו לא רק מוכרים מ
 
 ## הגיע הזמן להאיר – צרו קשר עוד היום — Lumina &amp; Air
 
-URL: https://example.com/contact
+URL: https://lumina-air.zappy5.app/contact
 Description: יש לכם שאלה על גוף תאורה או מאוורר? רוצים לקבוע ייעוץ? מלאו את הפרטים ונחזור אליכם עם כל התשובות וההשראה שתצטרכו כדי להפוך את הבית שלכם ליצירת אמנות.
 
 הגיע הזמן להאיר – צרו קשר עוד היום — Lumina & Air
@@ -2062,7 +2062,7 @@ Description: יש לכם שאלה על גוף תאורה או מאוורר? רו
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://lumina-air.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2329,7 +2329,7 @@ Lumina & Air ("החברה", "אנו", "שלנו") מחויבת להגן על פ�
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://lumina-air.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2605,7 +2605,7 @@ Lumina & Air מחויבת להנגיש את השירותים לכלל הציבו
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://lumina-air.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2900,7 +2900,7 @@ Lumina & Air מספקת Home Lighting & Fans Retail דרך האתר. השירו�
 
 ## תודה - Lumina & Air
 
-URL: https://example.com/thank-you
+URL: https://lumina-air.zappy5.app/thank-you
 Description: Lumina & Air - תודה - Lumina & Air
 
 תודה - Lumina & Air

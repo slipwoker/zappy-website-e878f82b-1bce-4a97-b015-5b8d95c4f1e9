@@ -1,0 +1,90 @@
+# Lumina & Air — Generative Engine Optimization Map
+
+> A retail business specializing in fans and lighting fixtures for the home, offering both product sales and personalized home consultation services. The business aims to help homeowners find the right lighting and ventilation solutions that match their interior design needs and preferences.
+
+---
+
+## Pages
+
+### בית
+https://lumina-air-e878f82b.zappy5.app
+גלו את עולם התאורה והאוורור המושלם לביתכם. גופי תאורה מעוצבים לסלון, מאווררי תקרה עם תאורה ופתרונות יוקרתיים לכל חדר. היכנסו והתחילו לעצב את חלום הבית שלכם עוד היום.
+
+### מוצרים
+https://lumina-air-e878f82b.zappy5.app/products
+קטלוג המוצרים המלא שלנו מחכה לכם: מאווררי תקרה דקורטיביים עם תאורה, גופי תאורה יוקרתיים לסלון ומנורות אווירה לכל פינה. מצאו את הפריט שישדרג לכם את החיים.
+
+### ייעוץ
+https://lumina-air-e878f82b.zappy5.app/consultation
+חולמים על בית מואר ומאוורר בדיוק כמו שתכננתם? שירות ייעוץ אישי להתאמת גופי תאורה ומאווררים שיחמיאו לעיצוב שלכם. קבעו פגישת ייעוץ והפכו חזון למציאות.
+
+### אודות
+https://lumina-air-e878f82b.zappy5.app/about
+בלומינה אנד אייר אנחנו לא רק מוכרים מוצרים – אנחנו יוצרים אווירה. עם ניסיון עשיר בתאורה ומאווררים מעוצבים, אנחנו כאן כדי להאיר ולקרר את הבית שלכם בסגנון שאין שני לו.
+
+### צור קשר
+https://lumina-air-e878f82b.zappy5.app/contact
+יש לכם שאלה על גוף תאורה או מאוורר? רוצים לקבוע ייעוץ? מלאו את הפרטים ונחזור אליכם עם כל התשובות וההשראה שתצטרכו כדי להפוך את הבית שלכם ליצירת אמנות.
+
+### תודה - Lumina & Air
+https://lumina-air-e878f82b.zappy5.app/thank-you
+Lumina & Air - תודה - Lumina & Air
+
+## Legal & Policy
+
+### Privacy Policy
+https://lumina-air-e878f82b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://lumina-air-e878f82b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://lumina-air-e878f82b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://lumina-air-e878f82b.zappy5.app/contact
+- Endpoint: https://lumina-air-e878f82b.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Lumina & Air
+A retail business specializing in fans and lighting fixtures for the home, offering both product sales and personalized home consultation services. The business aims to help homeowners find the right lighting and ventilation solutions that match their interior design needs and preferences.
+
+## Target Audience
+- בעלי בתים המחפשים פתרונות תאורה ואוורור לבית
+- בעלי בתים המחפשים פתרונות
+- חובבי עיצוב פנים
+- רוכשי בתים חדשים
+- בעלי בתים יוקרתיים
+- חיפוש מאווררים
+- חיפוש תאורה
+
+## Industry
+Home Lighting & Fans Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://lumina-air-e878f82b.zappy5.app/sitemap.xml
+- Robots: https://lumina-air-e878f82b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://lumina-air-e878f82b.zappy5.app/llms-full.txt

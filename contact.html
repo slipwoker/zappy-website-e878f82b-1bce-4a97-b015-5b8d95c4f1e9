@@ -767,10 +767,10 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 <a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
@@ -1266,6 +1266,14 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
 </section>
 
+<section id="layout-1784996052856" class="layout-section" data-zappy-component="true" style="width: 100%; padding: 60px 0px; direction: rtl; background-color: rgb(21, 23, 25); background-image: none; position: relative; overflow: hidden; --zappy-bg-color: #151719;" data-zappy-bg-orig-size-var="" data-zappy-bg-orig-position-var="" data-zappy-bg-type="color" data-zappy-bg-color="#151719" data-zappy-bg-image="" data-zappy-bg-overlay-color="#000000" data-zappy-bg-overlay-opacity="0" data-zappy-bg-video-type="" data-zappy-bg-video-url="" data-component-id="empty-section">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 1.5rem;">
+    <p style="font-size: 16px; line-height: 1.7; color: rgb(31, 41, 55); opacity: 0.5; text-align: center;">תמונה</p>
+  </div>
+</section>
+
+
+
 <section class="contact-contact-form-section" data-layout-spec="צור קשר-contact-form" dir="rtl">
     <div class="contact-contact-form-section__container">
         <!-- Form Column (Start side) -->
@@ -1294,6 +1302,94 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
                 <div class="privacy-consent">
                     <label class="privacy-consent-label">
                         <input type="checkbox" name="privacy_consent" class="privacy-consent-checkbox" required="">
+                        <span>קראתי ואני מסכים/ה ל<a href="/terms" target="_blank">תנאי השימוש</a> ול<a href="/privacy" target="_blank">מדיניות הפרטיות</a></span>
+                    </label>
+                </div>
+
+                <button type="submit" class="contact-form__submit btn-primary">
+                    <span>שליחת הודעה</span>
+                    <svg data-element-type="icon" data-icon-type="svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                </button>
+            </form>
+        </div>
+
+        <!-- Guidance Column (End side) -->
+        <div class="contact-contact-form-section__guidance-col">
+            <div class="contact-contact-form-section__guidance-card">
+                <h2 class="contact-contact-form-section__guidance-heading">מה כדאי לפרט בהודעה?</h2>
+                <p class="contact-contact-form-section__guidance-text">כדי שנוכל להציע לכם את הפתרונות המדויקים ביותר עבור גופי תאורה לסלון מעוצב או מאווררי תקרה, נשמח לקבל את הפרטים הבאים:</p>
+                
+                <ul class="contact-contact-form-section__guidance-list">
+                    <li class="contact-contact-form-section__guidance-item">
+                        <svg data-element-type="icon" data-icon-type="svg" class="contact-contact-form-section__guidance-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+                        <span>סוג החדר (סלון, חדר שינה, מטבח וכו')</span>
+                    </li>
+                    <li class="contact-contact-form-section__guidance-item">
+                        <svg data-element-type="icon" data-icon-type="svg" class="contact-contact-form-section__guidance-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M12 6v6l4 2"></path></svg>
+                        <span>סגנון עיצוב מועדף (מודרני, כפרי, קלאסי)</span>
+                    </li>
+                    <li class="contact-contact-form-section__guidance-item">
+                        <svg data-element-type="icon" data-icon-type="svg" class="contact-contact-form-section__guidance-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline></svg>
+                        <span>צורך בגוף תאורה, מאוורר תקרה, או שילוב</span>
+                    </li>
+                    <li class="contact-contact-form-section__guidance-item">
+                        <svg data-element-type="icon" data-icon-type="svg" class="contact-contact-form-section__guidance-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line></svg>
+                        <span>גודל החדר המשוער במ"ר (אם ידוע)</span>
+                    </li>
+                </ul>
+
+                <div class="contact-contact-form-section__contact-details">
+                    <h3 class="contact-contact-form-section__details-heading">פרטי התקשרות נוספים</h3>
+                    <ul class="contact-contact-form-section__details-list">
+                        <li class="contact-contact-form-section__details-item" data-zappy-contact-field="email">
+                            <svg data-element-type="icon" data-icon-type="svg" class="contact-contact-form-section__details-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                            <a href="mailto:[business_email]">[business_email]</a>
+                        </li>
+                        <li class="contact-contact-form-section__details-item" data-zappy-contact-field="phone">
+                            <svg data-element-type="icon" data-icon-type="svg" class="contact-contact-form-section__details-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                            <a href="tel:[business_phone]">[business_phone]</a>
+                        </li>
+                        <li class="contact-contact-form-section__details-item" data-zappy-contact-field="address">
+                            <svg data-element-type="icon" data-icon-type="svg" class="contact-contact-form-section__details-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                            <span>[business_address]</span>
+                        </li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Decorative Motif: Gold Horizontal Rule -->
+    <div class="contact-contact-form-section__decorative-line" aria-hidden="true"></div>
+</section><section class="contact-contact-form-section" data-layout-spec="צור קשר-contact-form" dir="rtl" id="section-1784996040732-bpsma5idi">
+    <div class="contact-contact-form-section__container">
+        <!-- Form Column (Start side) -->
+        <div class="contact-contact-form-section__form-col">
+            <h2 class="contact-contact-form-section__heading">צרו קשר לייעוץ אישי</h2>
+            <p class="contact-contact-form-section__subtitle">מלאו את הפרטים ונחזור אליכם בהקדם עם המלצות מותאמות אישית לפרויקט שלכם.</p>
+            
+            <form class="contact-form" action="/submit" method="POST">
+                <div class="contact-form__field">
+                    <label for="name-dup-1784996040732-0" class="contact-form__label">שם מלא</label>
+                    <input type="text" id="name-dup-1784996040732-0" name="name" class="contact-form__input" placeholder="השם שלך" required="">
+                </div>
+                <div class="contact-form__field">
+                    <label for="email-dup-1784996040732-1" class="contact-form__label">דוא"ל</label>
+                    <input type="email" id="email-dup-1784996040732-1" name="email" class="contact-form__input" placeholder="[business_email]" required="">
+                </div>
+                <div class="contact-form__field">
+                    <label for="phone-dup-1784996040732-2" class="contact-form__label">טלפון</label>
+                    <input type="tel" id="phone-dup-1784996040732-2" name="phone" class="contact-form__input" placeholder="[business_phone]" required="">
+                </div>
+                <div class="contact-form__field">
+                    <label for="message-dup-1784996040732-3" class="contact-form__label">הודעה</label>
+                    <textarea id="message-dup-1784996040732-3" name="message" class="contact-form__textarea" rows="5" placeholder="ספרו לנו על הפרויקט שלכם..." required=""></textarea>
+                </div>
+                
+                <div class="privacy-consent">
+                    <label class="privacy-consent-label">
+                        <input type="checkbox" name="privacy_consent-dup-1784996040732-4" class="privacy-consent-checkbox" required="">
                         <span>קראתי ואני מסכים/ה ל<a href="/terms" target="_blank">תנאי השימוש</a> ול<a href="/privacy" target="_blank">מדיניות הפרטיות</a></span>
                     </label>
                 </div>

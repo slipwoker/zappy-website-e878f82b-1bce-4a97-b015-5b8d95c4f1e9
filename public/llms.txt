@@ -50,6 +50,7 @@ Information about WCAG compliance and accessibility features.
 
 - Phone: 0502398637
 - Phone (tel): tel:0502398637
+- Address: הגעה לכל בית בארץ
 
 ### Contact form
 - URL: https://lumina-air.zappy5.app/contact

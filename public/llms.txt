@@ -48,7 +48,8 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Phone: 0502398637
+- Phone (tel): tel:0502398637
 
 ### Contact form
 - URL: https://lumina-air.zappy5.app/contact
